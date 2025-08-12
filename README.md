@@ -1,4 +1,4 @@
-# ZERO WASTES: 환경보호 웹페이지
+# ZERO WASTES 🍃 : 환경보호 웹페이지
 
 ## 프로젝트 소개
 
